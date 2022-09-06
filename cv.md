@@ -50,9 +50,9 @@ return (`${highest} ${lowest}`);
      
 ## Languages:
 
-* Russian  
-    ***Native or Bilingual Proficiency - C2*** 
-* English  
-    ***Full Professional Proficiency - C1***
-* Polish  
-    ***Elementary Proficiency - A2/A1***
+* **Russian**  
+    *Native or Bilingual Proficiency - C2* 
+* **English**  
+    *Full Professional Proficiency - C1*
+* **Polish**  
+    *Elementary Proficiency - A2/A1*

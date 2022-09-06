@@ -11,7 +11,7 @@
 
 ## About me
 
-Currently working in a construction company as an project manager assistant and get huge experience in organizing works and running projects of electrical installation and low current systems. This allows me to develop myself technically and professionally.
+Currently working in a construction company as an project manager assistant and getting huge experience in organizing works and running projects of electrical installation and low current systems. This allows me to develop myself technically and professionally.
 I graduated from Wroclaw University of Technology (WUST, Poland) and Moscow Power Engineering Institute (MPEI, Russia) with a degree in power electrical engineering.
 In addition to my professional work experience, I have experience in positions that involve good social and communication skills.
 

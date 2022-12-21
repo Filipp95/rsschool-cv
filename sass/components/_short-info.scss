@@ -1,0 +1,26 @@
+.wrapper {
+    max-width: $info-wrapper;
+    display: flex;  
+}
+
+.personal-foto {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+
+.name-and-profession {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.name {
+    font-size: 4.2rem;
+}
+
+.profession {
+    color: $theme-color;
+    font-size: 2.5rem;
+}

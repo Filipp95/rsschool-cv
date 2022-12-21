@@ -1,5 +1,260 @@
-head {
-    background-color: aliceblue;
-    font-family:'Times New Roman', Times, serif;
-    font-size: 12pt;
+html {
+  font-size: 10px;
 }
+
+body {
+  font-size: 1.6rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h4 {
+  margin: 0px;
+}
+
+h5 {
+  margin: 0px;
+  padding: 0px;
+}
+
+.section-name {
+  color: #003366;
+  padding: 0px;
+  margin-left: 20px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+ul {
+  margin: 0px;
+  padding: 0px 20px;
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.wrapper {
+  max-width: 1400px;
+  display: flex;
+}
+
+.personal-foto {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  margin-right: 10px;
+}
+
+.name-and-profession {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.name {
+  font-size: 4.2rem;
+}
+
+.profession {
+  color: #003366;
+  font-size: 2.5rem;
+}
+
+.contacts {
+  position: relative;
+}
+
+.icon {
+  height: 25px;
+  width: auto;
+  margin: 2px;
+  margin-right: 0px;
+  border-radius: 5px;
+}
+
+.phone {
+  height: 25px;
+  width: auto;
+}
+
+.nav-wrapper {
+  background: #003366;
+  color: #fff;
+  padding: 5px 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.info {
+  margin: 15px;
+  margin-left: 5px;
+}
+
+.work-experience {
+  width: 550px;
+}
+
+.position {
+  color: #000;
+  font-size: 2.4rem;
+}
+
+.period-place {
+  color: #003366;
+  font-size: 1.2rem;
+  font-style: italic;
+  display: flex;
+  justify-content: space-between;
+}
+
+.company-description {
+  color: #afa9b7;
+  font-size: 1.2rem;
+  font-style: italic;
+  margin: 5px 0px;
+}
+
+.task-name {
+  color: #003366;
+  font-size: 1.4rem;
+  font-style: italic;
+}
+
+.tasks {
+  padding-left: 17px;
+  margin-bottom: 6px;
+  list-style-type: disc;
+}
+
+.project-name {
+  color: #000;
+  padding: 5px;
+}
+
+.education {
+  width: 550px;
+  position: relative;
+}
+
+.education-level {
+  color: #000;
+  font-size: 2.4rem;
+}
+
+.period-place {
+  padding-top: 2px;
+  color: #003366;
+  font-size: 1.2rem;
+  font-style: italic;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2px;
+}
+
+.name-topic {
+  color: #afa9b7;
+  font-size: 1.2rem;
+  font-style: italic;
+  margin: 5px 0px;
+}
+
+.paper-title {
+  padding-left: 17px;
+  margin-bottom: 6px;
+  list-style-type: disc;
+}
+
+.skills {
+  width: 400px;
+  position: absolute;
+  right: 15px;
+}
+
+.skill-item {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.skill-title {
+  color: #fff;
+  font-size: 1.8rem;
+  background-color: #afa9b7;
+  margin: 5px 5px;
+  padding: 2px;
+  border-radius: 5px;
+  line-height: 150%;
+  width: 180px;
+  display: flex;
+}
+
+.code-example {
+  position: absolute;
+  width: 400px;
+  right: 15px;
+  top: 450px;
+}
+
+.code {
+  padding-left: 10px;
+  background-color: #f6f8fa;
+  font-size: 1.2rem;
+  font-style: italic;
+}
+
+.languages {
+  position: absolute;
+  right: 15px;
+  top: 650px;
+  width: 400px;
+}
+
+.language-name {
+  margin: 5px 0px;
+}
+
+.language-level {
+  color: #afa9b7;
+  font-size: 1.4rem;
+  font-style: italic;
+  margin: 5px 0px;
+}
+
+.about-author {
+  width: auto;
+  margin-top: 20px;
+  border-top: solid 2px #003366;
+}
+
+.GIT-info {
+  background: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.rs-icon {
+  width: 100px;
+}
+
+.git-icon {
+  width: 100px;
+}
+
+.git-link {
+  padding: 5px;
+}
+
+.git {
+  display: flex;
+  align-items: center;
+}
+
+.author-year {
+  font-size: 1.8rem;
+  color: #003366;
+  font-style: italic;
+}
+
+/*# sourceMappingURL=style.css.map */

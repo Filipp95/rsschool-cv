@@ -1,0 +1,29 @@
+.contacts {
+    position: relative;
+}
+.icon {
+    height: 25px;
+    width: auto;
+    margin: 2px;
+    margin-right: 0px;
+    border-radius: 5px;
+}
+
+.phone {
+    height: 25px;
+    width: auto;
+}
+
+.nav-wrapper {
+    background: $theme-color;
+    color: $navigation-color;
+    padding: 5px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info {
+    margin: 15px;   
+    margin-left: 5px;
+}

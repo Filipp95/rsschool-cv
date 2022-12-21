@@ -1,0 +1,20 @@
+.skills {
+    width: $right-wrapper;
+    position: absolute;
+    right: 15px;
+}
+.skill-item {
+    display: flex;
+    flex-wrap: wrap;
+}
+.skill-title{
+    color: $navigation-color;
+    font-size: 1.8rem;
+    background-color: $secondary-color;
+    margin: 5px 5px;
+    padding: 2px;
+    border-radius: 5px;
+    line-height: 150%;
+    width: 180px;
+    display: flex;    
+}

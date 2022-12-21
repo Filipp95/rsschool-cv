@@ -1,0 +1,35 @@
+.about-author {
+    width: auto;
+    margin-top: 20px;
+    border-top: solid 2px $theme-color;
+}
+
+.GIT-info {
+    background: $navigation-color;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.rs-icon {
+    width: 100px;
+}   
+
+.git-icon {
+    width: 100px;
+}
+
+.git-link {
+    padding: 5px;
+}
+
+.git {
+    display: flex;
+    align-items: center;
+}
+
+.author-year {
+    font-size: 1.8rem;
+    color: $theme-color;
+    font-style: italic;
+}

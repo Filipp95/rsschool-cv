@@ -1,0 +1,17 @@
+.languages {
+    position: absolute;
+    right: 15px;
+    top: 650px;
+    width: $right-wrapper;
+}
+
+.language-name {
+    margin: 5px 0px;
+}
+
+.language-level {
+    color: $secondary-color;
+    font-size: 1.4rem;
+    font-style: italic;
+    margin: 5px 0px;
+}
